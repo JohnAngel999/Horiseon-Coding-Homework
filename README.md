@@ -1,4 +1,5 @@
 # Horiseon-Coding-Homework
+<<<<<<< HEAD
 ## HTML and CSS Challenge: Code refactor
 ### Acceptance Criteria 
 <ul>
@@ -9,3 +10,7 @@
 
 
 </ul>
+=======
+HTML and CSS challenge: code refactor
+## Objective
+>>>>>>> 8760a13091a2d7d19fa823d493915642dd455792
