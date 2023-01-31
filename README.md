@@ -21,6 +21,7 @@
 </ul>
 
 ### Website link
+[Horiseon Website](https://johnangel999.github.io/Horiseon-Coding-Homework/)
 
 ### Screenshot 
 <img src="./assets/images/screenshot.png"
